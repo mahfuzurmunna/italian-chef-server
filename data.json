@@ -1,234 +1,295 @@
-{
-  "chefs": [
-    {
-      "chef_picture": "path_to_chef_picture_1.jpg",
-      "id": 1,
-      "chef_name": "Mario Rossi",
-      "years_of_experience": 15,
-      "num_recipes": 50,
-      "likes": 10000,
-      "recipes": [
-        {
-          "recipe_name": "Spaghetti Carbonara",
-          "ingredients": [
-            "spaghetti",
-            "bacon",
-            "eggs",
-            "Parmesan cheese",
-            "black pepper"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook bacon in a pan until crispy. 3. In a bowl, whisk eggs, Parmesan cheese, and black pepper. 4. Drain spaghetti and toss it with the bacon. 5. Remove from heat and mix in the egg mixture. 6. Serve immediately.",
-          "rating": 4.5
-        },
-        {
-          "recipe_name": "Margherita Pizza",
-          "ingredients": [
-            "pizza dough",
-            "tomato sauce",
-            "mozzarella cheese",
-            "fresh basil",
-            "olive oil"
-          ],
-          "cooking_method": "1. Preheat oven to 475°F (245°C). 2. Roll out the pizza dough and place it on a baking sheet. 3. Spread tomato sauce over the dough. 4. Sprinkle mozzarella cheese over the sauce. 5. Top with fresh basil leaves. 6. Drizzle with olive oil. 7. Bake in the oven for 12-15 minutes or until crust is golden and cheese is melted. 8. Slice and serve.",
-          "rating": 4.2
-        },
-        {
-          "recipe_name": "Tiramisu",
-          "ingredients": [
-            "ladyfingers",
-            "espresso",
-            "mascarpone cheese",
-            "eggs",
-            "cocoa powder"
-          ],
-          "cooking_method": "1. Dip ladyfingers in espresso and arrange them in a dish. 2. In a bowl, mix mascarpone cheese, eggs, and sugar until creamy. 3. Spread half of the mascarpone mixture over the ladyfingers. 4. Repeat with another layer of ladyfingers and mascarpone mixture. 5. Dust the top with cocoa powder. 6. Refrigerate for at least 4 hours before serving.",
-          "rating": 4.8
-        }
-      ]
-    },
-    {
-      "chef_picture": "path_to_chef_picture_2.jpg",
-      "id": 2,
-      "chef_name": "Giulia Bianchi",
-      "years_of_experience": 12,
-      "num_recipes": 70,
-      "likes": 8000,
-      "recipes": [
-        {
-          "recipe_name": "Risotto alla Milanese",
-          "ingredients": [
-            "rice",
-            "onion",
-            "white wine",
-            "saffron",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Sauté finely chopped onion in a pan. 2. Add rice and toast for a few minutes. 3. Pour in white wine and let it evaporate. 4. Add ladles of hot vegetable broth gradually, stirring continuously. 5. Dissolve saffron in a bit of broth and add it to the risotto. 6. When the rice is al dente, remove from heat and stir in grated Parmesan cheese. 7. Let it rest for a few minutes before serving.",
-          "rating": 4.6
-        },
-        {
-          "recipe_name": "Bruschetta",
-          "ingredients": [
-            "baguette",
-            "tomatoes",
-            "garlic",
-            "fresh basil",
-            "olive oil"
-          ],
-          "cooking_method": "1. Slice the baguette into thick slices and toast them. 2. Rub each slice with garlic. 3. Dice the tomatoes and mix them with chopped fresh basil. 4. Drizzle olive oil over the tomato mixture. 5. Spoon the tomato mixture onto the toasted bread slices. 6. Serve as an appetizer or snack.",
-          "rating": 4.3
-        },
-        {
-          "recipe_name": "Panna Cotta",
-          "ingredients": [
-            "cream",
-            "sugar",
-            "gelatin",
-            "vanilla extract",
-            "fruit sauce"
-          ],
-          "cooking_method": "1. Heat cream and sugar in a saucepan until hot, but not boiling. 2. Remove from heat and stir in soaked gelatin. 3. Add vanilla extract and mix well. 4. Pour the mixture into individual molds or glasses. 5. Refrigerate for at least 4 hours until set. 6. Serve with fruit sauce on top.",
-          "rating": 4.7
-        }
-      ]
-    },
-    {
-      "chef_picture": "path_to_chef_picture_3.jpg",
-      "id": 3,
-      "chef_name": "Luca Verdi",
-      "years_of_experience": 20,
-      "num_recipes": 100,
-      "likes": 15000,
-      "recipes": [
-        {
-          "recipe_name": "Lasagna",
-          "ingredients": [
-            "lasagna noodles",
-            "ground beef",
-            "onion",
-            "garlic",
-            "tomato sauce"
-          ],
-          "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. In a pan, brown ground beef with chopped onion and garlic. 3. Add tomato sauce and simmer for a few minutes. 4. In a baking dish, layer noodles, meat sauce, and grated cheese. 5. Repeat the layers until all ingredients are used. 6. Bake in the oven at 375°F (190°C) for 25-30 minutes. 7. Let it cool for a few minutes before serving.",
-          "rating": 4.9
-        },
-        {
-          "recipe_name": "Minestrone Soup",
-          "ingredients": [
-            "vegetable broth",
-            "onion",
-            "carrots",
-            "celery",
-            "zucchini"
-          ],
-          "cooking_method": "1. Sauté chopped onion, carrots, celery, and zucchini in a pot. 2. Add vegetable broth and bring to a boil. 3. Simmer until the vegetables are tender. 4. Season with salt, pepper, and herbs to taste. 5. Serve hot as a comforting and nutritious soup.",
-          "rating": 4.4
-        },
-        {
-          "recipe_name": "Tortellini al Brodo",
-          "ingredients": [
-            "tortellini",
-            "chicken broth",
-            "Parmesan cheese",
-            "fresh parsley",
-            "black pepper"
-          ],
-          "cooking_method": "1. Cook tortellini in boiling chicken broth until al dente. 2. Remove from heat and sprinkle with grated Parmesan cheese. 3. Add chopped fresh parsley and black pepper for added flavor. 4. Serve hot in a bowl with some of the broth.",
-          "rating": 4.2
-        }
-      ]
-    },
-    {
-      "chef_picture": "path_to_chef_picture_4.jpg",
-      "id": 4,
-      "chef_name": "Francesca Marino",
-      "years_of_experience": 8,
-      "num_recipes": 40,
-      "likes": 5000,
-      "recipes": [
-        {
-          "recipe_name": "Gnocchi alla Sorrentina",
-          "ingredients": [
-            "potatoes",
-            "flour",
-            "egg",
-            "tomato sauce",
-            "mozzarella cheese"
-          ],
-          "cooking_method": "1. Boil potatoes until tender, then peel and mash them. 2. Mix mashed potatoes, flour, and egg to form a dough. 3. Roll the dough into long ropes and cut them into small pieces. 4. Cook the gnocchi in boiling water until they float to the surface. 5. Drain the gnocchi and toss them with tomato sauce. 6. Place the gnocchi in a baking dish, top with mozzarella cheese, and bake until the cheese is melted and bubbly. 7. Serve hot.",
-          "rating": 4.5
-        },
-        {
-          "recipe_name": "Caprese Salad",
-          "ingredients": [
-            "tomatoes",
-            "mozzarella cheese",
-            "fresh basil",
-            "olive oil",
-            "balsamic glaze"
-          ],
-          "cooking_method": "1. Slice tomatoes and mozzarella cheese into thick slices. 2. Arrange them on a plate, alternating between tomato and mozzarella slices. 3. Tuck fresh basil leaves between the slices. 4. Drizzle with olive oil and balsamic glaze. 5. Season with salt and pepper to taste. 6. Serve as a refreshing and colorful salad.",
-          "rating": 4.7
-        },
-        {
-          "recipe_name": "Cannoli",
-          "ingredients": [
-            "flour",
-            "sugar",
-            "butter",
-            "ricotta cheese",
-            "chocolate chips"
-          ],
-          "cooking_method": "1. Mix flour, sugar, and butter to form a dough. 2. Roll out the dough and cut it into circles. 3. Wrap each circle of dough around a metal cannoli tube. 4. Fry the cannoli shells until golden and crisp. 5. Let the shells cool and remove the tubes. 6. In a bowl, mix ricotta cheese and chocolate chips. 7. Fill the cannoli shells with the ricotta mixture. 8. Dust with powdered sugar before serving.",
-          "rating": 4.3
-        }
-      ]
-    },
-    {
-      "chef_picture": "path_to_chef_picture_5.jpg",
-      "id": 5,
-      "chef_name": "Antonio Russo",
-      "years_of_experience": 10,
-      "num_recipes": 60,
-      "likes": 9000,
-      "recipes": [
-        {
-          "recipe_name": "Osso Buco",
-          "ingredients": [
-            "veal shanks",
-            "onion",
-            "carrots",
-            "celery",
-            "tomato paste"
-          ],
-          "cooking_method": "1. Brown veal shanks in a pan. 2. Sauté chopped onion, carrots, and celery. 3. Add tomato paste and cook for a few minutes. 4. Place veal shanks and vegetable mixture in a pot. 5. Add enough broth to cover the meat. 6. Simmer on low heat for several hours until the meat is tender. 7. Serve with gremolata and risotto or polenta.",
-          "rating": 4.9
-        },
-        {
-          "recipe_name": "Braciola",
-          "ingredients": [
-            "thinly sliced beef",
-            "breadcrumbs",
-            "Parmesan cheese",
-            "garlic",
-            "parsley"
-          ],
-          "cooking_method": "1. Mix breadcrumbs, grated Parmesan cheese, minced garlic, and chopped parsley. 2. Place a spoonful of the breadcrumb mixture on a slice of beef. 3. Roll up the beef tightly and secure with toothpicks. 4. Brown the braciole in a pan on all sides. 5. Add tomato sauce and simmer until the beef is cooked through. 6. Serve with pasta or mashed potatoes.",
-          "rating": 4.7
-        },
-        {
-          "recipe_name": "Cannelloni",
-          "ingredients": [
-            "cannelloni shells",
-            "ground meat",
-            "spinach",
-            "ricotta cheese",
-            "bechamel sauce"
-          ],
-          "cooking_method": "1. Cook cannelloni shells according to package instructions. 2. Brown ground meat in a pan and add chopped spinach. 3. In a bowl, mix the cooked meat mixture with ricotta cheese. 4. Stuff the cannelloni shells with the meat and cheese mixture. 5. Place the stuffed shells in a baking dish and pour bechamel sauce over them. 6. Bake in the oven at 375°F (190°C) for 20-25 minutes or until the top is golden. 7. Let it cool for a few minutes before serving.",
-          "rating": 4.6
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "chefs": [
+      {
+        "chef_picture": "path_to_chef_picture_1.jpg",
+        "id": 1,
+        "chef_name": "Mario Rossi",
+        "years_of_experience": 15,
+        "num_recipes": 50,
+        "likes": 10000,
+        "recipes": [
+          {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": [
+              "spaghetti",
+              "bacon",
+              "eggs",
+              "Parmesan cheese",
+              "black pepper"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook bacon in a pan until crispy. 3. In a bowl, whisk eggs, Parmesan cheese, and black pepper. 4. Drain spaghetti and toss it with the bacon. 5. Remove from heat and mix in the egg mixture. 6. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Margherita Pizza",
+            "ingredients": [
+              "pizza dough",
+              "tomato sauce",
+              "mozzarella cheese",
+              "fresh basil",
+              "olive oil"
+            ],
+            "cooking_method": "1. Preheat oven to 475°F (245°C). 2. Roll out the pizza dough and place it on a baking sheet. 3. Spread tomato sauce over the dough. 4. Sprinkle mozzarella cheese over the sauce. 5. Top with fresh basil leaves. 6. Drizzle with olive oil. 7. Bake in the oven for 12-15 minutes or until crust is golden and cheese is melted. 8. Slice and serve.",
+            "rating": 4.2
+          },
+          {
+            "recipe_name": "Tiramisu",
+            "ingredients": [
+              "ladyfingers",
+              "espresso",
+              "mascarpone cheese",
+              "eggs",
+              "cocoa powder"
+            ],
+            "cooking_method": "1. Dip ladyfingers in espresso and arrange them in a dish. 2. In a bowl, mix mascarpone cheese, eggs, and sugar until creamy. 3. Spread half of the mascarpone mixture over the ladyfingers. 4. Repeat with another layer of ladyfingers and mascarpone mixture. 5. Dust the top with cocoa powder. 6. Refrigerate for at least 4 hours before serving.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "chef_picture": "path_to_chef_picture_2.jpg",
+        "id": 2,
+        "chef_name": "Giulia Bianchi",
+        "years_of_experience": 12,
+        "num_recipes": 70,
+        "likes": 8000,
+        "recipes": [
+          {
+            "recipe_name": "Risotto alla Milanese",
+            "ingredients": [
+              "rice",
+              "onion",
+              "white wine",
+              "saffron",
+              "Parmesan cheese"
+            ],
+            "cooking_method": "1. Sauté finely chopped onion in a pan. 2. Add rice and toast for a few minutes. 3. Pour in white wine and let it evaporate. 4. Add ladles of hot vegetable broth gradually, stirring continuously. 5. Dissolve saffron in a bit of broth and add it to the risotto. 6. When the rice is al dente, remove from heat and stir in grated Parmesan cheese. 7. Let it rest for a few minutes before serving.",
+            "rating": 4.6
+          },
+          {
+            "recipe_name": "Bruschetta",
+            "ingredients": [
+              "baguette",
+              "tomatoes",
+              "garlic",
+              "fresh basil",
+              "olive oil"
+            ],
+            "cooking_method": "1. Slice the baguette into thick slices and toast them. 2. Rub each slice with garlic. 3. Dice the tomatoes and mix them with chopped fresh basil. 4. Drizzle olive oil over the tomato mixture. 5. Spoon the tomato mixture onto the toasted bread slices. 6. Serve as an appetizer or snack.",
+            "rating": 4.3
+          },
+          {
+            "recipe_name": "Panna Cotta",
+            "ingredients": [
+              "cream",
+              "sugar",
+              "gelatin",
+              "vanilla extract",
+              "fruit sauce"
+            ],
+            "cooking_method": "1. Heat cream and sugar in a saucepan until hot, but not boiling. 2. Remove from heat and stir in soaked gelatin. 3. Add vanilla extract and mix well. 4. Pour the mixture into individual molds or glasses. 5. Refrigerate for at least 4 hours until set. 6. Serve with fruit sauce on top.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "chef_picture": "path_to_chef_picture_3.jpg",
+        "id": 3,
+        "chef_name": "Luca Verdi",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 15000,
+        "recipes": [
+          {
+            "recipe_name": "Lasagna",
+            "ingredients": [
+              "lasagna noodles",
+              "ground beef",
+              "onion",
+              "garlic",
+              "tomato sauce"
+            ],
+            "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. In a pan, brown ground beef with chopped onion and garlic. 3. Add tomato sauce and simmer for a few minutes. 4. In a baking dish, layer noodles, meat sauce, and grated cheese. 5. Repeat the layers until all ingredients are used. 6. Bake in the oven at 375°F (190°C) for 25-30 minutes. 7. Let it cool for a few minutes before serving.",
+            "rating": 4.9
+          },
+          {
+            "recipe_name": "Minestrone Soup",
+            "ingredients": [
+              "vegetable broth",
+              "onion",
+              "carrots",
+              "celery",
+              "zucchini"
+            ],
+            "cooking_method": "1. Sauté chopped onion, carrots, celery, and zucchini in a pot. 2. Add vegetable broth and bring to a boil. 3. Simmer until the vegetables are tender. 4. Season with salt, pepper, and herbs to taste. 5. Serve hot as a comforting and nutritious soup.",
+            "rating": 4.4
+          },
+          {
+            "recipe_name": "Tortellini al Brodo",
+            "ingredients": [
+              "tortellini",
+              "chicken broth",
+              "Parmesan cheese",
+              "fresh parsley",
+              "black pepper"
+            ],
+            "cooking_method": "1. Cook tortellini in boiling chicken broth until al dente. 2. Remove from heat and sprinkle with grated Parmesan cheese. 3. Add chopped fresh parsley and black pepper for added flavor. 4. Serve hot in a bowl with some of the broth.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "chef_picture": "path_to_chef_picture_4.jpg",
+        "id": 4,
+        "chef_name": "Francesca Marino",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 5000,
+        "recipes": [
+          {
+            "recipe_name": "Gnocchi alla Sorrentina",
+            "ingredients": [
+              "potatoes",
+              "flour",
+              "egg",
+              "tomato sauce",
+              "mozzarella cheese"
+            ],
+            "cooking_method": "1. Boil potatoes until tender, then peel and mash them. 2. Mix mashed potatoes, flour, and egg to form a dough. 3. Roll the dough into long ropes and cut them into small pieces. 4. Cook the gnocchi in boiling water until they float to the surface. 5. Drain the gnocchi and toss them with tomato sauce. 6. Place the gnocchi in a baking dish, top with mozzarella cheese, and bake until the cheese is melted and bubbly. 7. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "recipe_name": "Caprese Salad",
+            "ingredients": [
+              "tomatoes",
+              "mozzarella cheese",
+              "fresh basil",
+              "olive oil",
+              "balsamic glaze"
+            ],
+            "cooking_method": "1. Slice tomatoes and mozzarella cheese into thick slices. 2. Arrange them on a plate, alternating between tomato and mozzarella slices. 3. Tuck fresh basil leaves between the slices. 4. Drizzle with olive oil and balsamic glaze. 5. Season with salt and pepper to taste. 6. Serve as a refreshing and colorful salad.",
+            "rating": 4.7
+          },
+          {
+            "recipe_name": "Cannoli",
+            "ingredients": [
+              "flour",
+              "sugar",
+              "butter",
+              "ricotta cheese",
+              "chocolate chips"
+            ],
+            "cooking_method": "1. Mix flour, sugar, and butter to form a dough. 2. Roll out the dough and cut it into circles. 3. Wrap each circle of dough around a metal cannoli tube. 4. Fry the cannoli shells until golden and crisp. 5. Let the shells cool and remove the tubes. 6. In a bowl, mix ricotta cheese and chocolate chips. 7. Fill the cannoli shells with the ricotta mixture. 8. Dust with powdered sugar before serving.",
+            "rating": 4.3
+          }
+        ]
+      },
+      {
+        "chef_picture": "path_to_chef_picture_5.jpg",
+        "id": 5,
+        "chef_name": "Antonio Russo",
+        "years_of_experience": 10,
+        "num_recipes": 60,
+        "likes": 9000,
+        "recipes": [
+          {
+            "recipe_name": "Osso Buco",
+            "ingredients": [
+              "veal shanks",
+              "onion",
+              "carrots",
+              "celery",
+              "tomato paste"
+            ],
+            "cooking_method": "1. Brown veal shanks in a pan. 2. Sauté chopped onion, carrots, and celery. 3. Add tomato paste and cook for a few minutes. 4. Place veal shanks and vegetable mixture in a pot. 5. Add enough broth to cover the meat. 6. Simmer on low heat for several hours until the meat is tender. 7. Serve with gremolata and risotto or polenta.",
+            "rating": 4.9
+          },
+          {
+            "recipe_name": "Braciola",
+            "ingredients": [
+              "thinly sliced beef",
+              "breadcrumbs",
+              "Parmesan cheese",
+              "garlic",
+              "parsley"
+            ],
+            "cooking_method": "1. Mix breadcrumbs, grated Parmesan cheese, minced garlic, and chopped parsley. 2. Place a spoonful of the breadcrumb mixture on a slice of beef. 3. Roll up the beef tightly and secure with toothpicks. 4. Brown the braciole in a pan on all sides. 5. Add tomato sauce and simmer until the beef is cooked through. 6. Serve with pasta or mashed potatoes.",
+            "rating": 4.7
+          },
+          {
+            "recipe_name": "Cannelloni",
+            "ingredients": [
+              "cannelloni shells",
+              "ground meat",
+              "spinach",
+              "ricotta cheese",
+              "bechamel sauce"
+            ],
+            "cooking_method": "1. Cook cannelloni shells according to package instructions. 2. Brown ground meat in a pan and add chopped spinach. 3. In a bowl, mix the cooked meat mixture with ricotta cheese. 4. Stuff the cannelloni shells with the meat and cheese mixture. 5. Place the stuffed shells in a baking dish and pour bechamel sauce over them. 6. Bake in the oven at 375°F (190°C) for 20-25 minutes or until the top is golden. 7. Let it cool for a few minutes before serving.",
+            "rating": 4.6
+          }
+          
+        ]
+      },
+      {
+        "chef_picture": "path_to_chef_picture_8.jpg",
+        "id": 8,
+        "chef_name": "Sophia Hernandez",
+        "years_of_experience": 12,
+        "num_recipes": 70,
+        "likes": 8500,
+        "recipes": [
+          {
+            "recipe_name": "Paella",
+            "ingredients": [
+              "rice",
+              "chicken",
+              "prawns",
+              "mussels",
+              "chorizo",
+              "onion",
+              "garlic",
+              "bell peppers",
+              "tomatoes",
+              "saffron",
+              "paprika"
+            ],
+            "cooking_method": "1. Heat olive oil in a large pan and brown the chicken and chorizo. 2. Add chopped onion, garlic, and bell peppers. Sauté until softened. 3. Stir in diced tomatoes, saffron threads, and paprika. 4. Add rice and coat it with the mixture. 5. Pour in chicken stock and bring to a boil. 6. Reduce heat and let it simmer until the rice is almost cooked. 7. Nestle prawns, mussels, and peas into the rice. Cover and cook until the seafood is cooked through. 8. Let it rest for a few minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "recipe_name": "Tiramisu",
+            "ingredients": [
+              "ladyfingers",
+              "espresso",
+              "Marsala wine",
+              "egg yolks",
+              "sugar",
+              "Mascarpone cheese",
+              "cocoa powder"
+            ],
+            "cooking_method": "1. Brew strong espresso and let it cool. 2. In a bowl, whisk together egg yolks and sugar until thick and pale. 3. Add Marsala wine and mix well. 4. In a separate bowl, beat Mascarpone cheese until smooth. 5. Fold the cheese mixture into the egg mixture until well combined. 6. Dip ladyfingers into the cooled espresso and arrange them in a dish. 7. Spread a layer of the Mascarpone mixture over the ladyfingers. 8. Repeat the layers and finish with a dusting of cocoa powder on top. 9. Refrigerate for at least 4 hours before serving.",
+            "rating": 4.9
+          },
+          {
+            "recipe_name": "Lemon Garlic Shrimp Pasta",
+            "ingredients": [
+              "shrimp",
+              "linguine",
+              "lemon",
+              "garlic",
+              "olive oil",
+              "red pepper flakes",
+              "Parmesan cheese",
+              "fresh parsley"
+            ],
+            "cooking_method": "1. Cook linguine according to package instructions. 2. In a large skillet, heat olive oil and sauté minced garlic until fragrant. 3. Add shrimp and cook until pink and cooked through. 4. Grate lemon zest over the shrimp and squeeze lemon juice. 5. Season with red pepper flakes and salt. 6. Toss the cooked linguine with the shrimp mixture. 7. Serve with grated Parmesan cheese and chopped fresh parsley on top.",
+            "rating": 4.7
+          }
+        ]
+      }
+    ]
+    
+  }
+]

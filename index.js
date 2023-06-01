@@ -1,13 +1,17 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 
+app.use(cors());
+
+const allChefs = require("./data.json")
 
 app.get("/", (req, res) => {
   res.json("hello world");
 });
 
 app.get('/allData', (req,res)=> {
-  res.send({ result: 'okkk'});
+  res.send(allChefs);
 })
 
 app.listen(5000, ()=> {

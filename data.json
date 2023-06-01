@@ -1,8 +1,9 @@
 [
+
   {
     "chefs": [
       {
-        "chef_picture": "path_to_chef_picture_1.jpg",
+        "chef_picture": "https://i.ibb.co/d2wbcjQ/chef-1.png",
         "id": 1,
         "chef_name": "Mario Rossi",
         "years_of_experience": 15,
@@ -48,7 +49,7 @@
         ]
       },
       {
-        "chef_picture": "path_to_chef_picture_2.jpg",
+        "chef_picture": "https://i.ibb.co/fMD0kDv/chef-2-min.png",
         "id": 2,
         "chef_name": "Giulia Bianchi",
         "years_of_experience": 12,
@@ -94,7 +95,7 @@
         ]
       },
       {
-        "chef_picture": "path_to_chef_picture_3.jpg",
+        "chef_picture": "https://i.ibb.co/g9w7Z3Q/chef-3.png",
         "id": 3,
         "chef_name": "Luca Verdi",
         "years_of_experience": 20,
@@ -140,7 +141,7 @@
         ]
       },
       {
-        "chef_picture": "path_to_chef_picture_4.jpg",
+        "chef_picture": "https://i.ibb.co/NVb828K/chef-4-min.png",
         "id": 4,
         "chef_name": "Francesca Marino",
         "years_of_experience": 8,
@@ -186,9 +187,9 @@
         ]
       },
       {
-        "chef_picture": "path_to_chef_picture_5.jpg",
+        "chef_picture": "https://i.ibb.co/FXFPh4B/chef-06-min.png",
         "id": 5,
-        "chef_name": "Antonio Russo",
+        "chef_name": "Sophia Hernandez",
         "years_of_experience": 10,
         "num_recipes": 60,
         "likes": 9000,
@@ -229,13 +230,12 @@
             "cooking_method": "1. Cook cannelloni shells according to package instructions. 2. Brown ground meat in a pan and add chopped spinach. 3. In a bowl, mix the cooked meat mixture with ricotta cheese. 4. Stuff the cannelloni shells with the meat and cheese mixture. 5. Place the stuffed shells in a baking dish and pour bechamel sauce over them. 6. Bake in the oven at 375°F (190°C) for 20-25 minutes or until the top is golden. 7. Let it cool for a few minutes before serving.",
             "rating": 4.6
           }
-          
         ]
       },
       {
-        "chef_picture": "path_to_chef_picture_8.jpg",
-        "id": 8,
-        "chef_name": "Sophia Hernandez",
+        "chef_picture": "https://i.ibb.co/Dgsp2bV/chef-05-min.png",
+        "id": 6,
+        "chef_name": "Antonio Russo",
         "years_of_experience": 12,
         "num_recipes": 70,
         "likes": 8500,
@@ -290,6 +290,5 @@
         ]
       }
     ]
-    
   }
 ]

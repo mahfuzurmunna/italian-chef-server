@@ -21,11 +21,8 @@ app.get("/allData/:id", (req, res) => {
   const id = req.params.id;
   const item = allChefs[0]?.chefs.find(pd => pd.id== id)
   console.log(item);
-  res.send({item})
-});
+  res.send({item}) });
 
 app.listen(5000, ()=> {
   console.log('server is running on port 5000')
 })
-
-

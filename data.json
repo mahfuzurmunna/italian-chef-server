@@ -6,7 +6,8 @@
         "chef_picture": "https://i.ibb.co/d2wbcjQ/chef-1.png",
         "id": 1,
         "chef_name": "Mario Rossi",
-        "years_of_experience": 15,
+         "description": "Mario Rossi is a renowned Italian chef with 15 years of experience. He has a passion for creating delicious recipes and has amassed a collection of 50 mouthwatering recipes. With a large following of 10,000 likes, Mario's culinary expertise and creativity are highly regarded.",
+        "years_of_experience": "15 years",
         "num_recipes": 50,
         "likes": 10000,
         "recipes": [
@@ -52,7 +53,8 @@
         "chef_picture": "https://i.ibb.co/fMD0kDv/chef-2-min.png",
         "id": 2,
         "chef_name": "Giulia Bianchi",
-        "years_of_experience": 12,
+        "description": "Giulia Bianchi is a skilled Italian chef with 12 years of experience. Her repertoire consists of 70 delightful recipes that showcase her culinary finesse. With 8,000 likes, Giulia's recipes are known for their unique flavors and artistic presentation.",
+        "years_of_experience": "12 years",
         "num_recipes": 70,
         "likes": 8000,
         "recipes": [
@@ -98,7 +100,8 @@
         "chef_picture": "https://i.ibb.co/g9w7Z3Q/chef-3.png",
         "id": 3,
         "chef_name": "Luca Verdi",
-        "years_of_experience": 20,
+         "description": "Luca Verdi is a seasoned Italian chef with an impressive 20 years of experience. He has curated a repertoire of 100 delectable recipes, gaining popularity with 15,000 likes. Luca's expertise lies in preparing comforting classics and hearty Italian dishes.",
+        "years_of_experience": "20 years",
         "num_recipes": 100,
         "likes": 15000,
         "recipes": [
@@ -144,7 +147,8 @@
         "chef_picture": "https://i.ibb.co/NVb828K/chef-4-min.png",
         "id": 4,
         "chef_name": "Francesca Marino",
-        "years_of_experience": 8,
+        "description": "Francesca Marino is an up-and-coming Italian chef with 8 years of experience. She has crafted 40 enticing recipes that highlight her culinary creativity. With 5,000 likes, Francesca's dishes are known for their innovative twists and vibrant flavors.",
+        "years_of_experience": "8 years",
         "num_recipes": 40,
         "likes": 5000,
         "recipes": [
@@ -190,7 +194,8 @@
         "chef_picture": "https://i.ibb.co/FXFPh4B/chef-06-min.png",
         "id": 5,
         "chef_name": "Sophia Hernandez",
-        "years_of_experience": 10,
+         "description": "Sophia Hernandez is a talented Italian chef with 10 years of experience. She is known for her innovative and modern approach to Italian cuisine. Sophia has developed a repertoire of 80 exceptional recipes that showcase her creativity and culinary skills. With a growing following of 12,000 likes, Sophia's dishes are celebrated for their unique flavor combinations and artistic presentation.",
+        "years_of_experience": "10 years",
         "num_recipes": 60,
         "likes": 9000,
         "recipes": [
@@ -236,7 +241,8 @@
         "chef_picture": "https://i.ibb.co/Dgsp2bV/chef-05-min.png",
         "id": 6,
         "chef_name": "Antonio Russo",
-        "years_of_experience": 12,
+         "description": "Antonio Russo is a talented Italian chef with 10 years of experience. He has created a repertoire of 60 exquisite recipes, earning him a following of 9,000 likes. Antonio is known for his expertise in traditional Italian dishes, such as Osso Buco and Braciola.",
+        "years_of_experience": "12 years",
         "num_recipes": 70,
         "likes": 8500,
         "recipes": [
